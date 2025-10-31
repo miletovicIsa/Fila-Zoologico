@@ -10,9 +10,7 @@
 - [⚙️ Funcionalidades](#️-funcionalidades)
 - [📁 Estrutura do Projeto](#-estrutura-do-projeto)
 - [🧩 Como Compilar e Executar](#-como-compilar-e-executar)
-- [💻 Exemplo de Uso](#-exemplo-de-uso)
 - [🧠 Explicação Técnica](#-explicação-técnica)
-- [🚀 Possíveis Melhorias](#-possíveis-melhorias)
 - [👩‍💻 Autor](#-autor)
 
 ---
@@ -85,6 +83,7 @@ Cada nó da fila contém as informações de um animal e o ponteiro para o próx
 ## 🧑‍💻 Autor
 
 **Isabela Marques Miletovic**
+
 Projeto acadêmico desenvolvido em linguagem C, com foco no estudo e aplicação de estruturas de dados dinâmicas.
 
 
